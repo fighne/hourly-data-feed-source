@@ -1,0 +1,27 @@
+#name,obs-type,met-url
+#North and East Coasts
+F3,light vessel,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162170
+Sandette,light vessel,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162304
+#Offshore
+Brittany,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162163
+Gascogne,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162001
+K1,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162029
+K2,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162081
+K7,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/164046
+M6,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162095
+PAP,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162442
+#South Coast
+Channel,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162103
+E1,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162050
+Greenwich Light Vessel,light vessel,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162305
+Jersey Buoy,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162027
+L4,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162030
+Seven Stones,light vessel,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162107
+#West Coast
+K4,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162105
+K5,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/164045
+M2,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162091
+M3,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162092
+M4,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162093
+M5,buoy,https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/observations/162094
+
