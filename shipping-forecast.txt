@@ -1,0 +1,9 @@
+# shipping forecast urls
+#shipping forcast
+https://www.metoffice.gov.uk/weather/specialist-forecasts/coast-and-sea/print/shipping-forecast
+#shipping forecast 
+https://www.metoffice.gov.uk/weather/guides/coast-and-sea/shipping-forecast
+#interpret forecast
+https://jollyparrot.co.uk/blog/how-to-interpret-a-shipping-forecast-298
+#areas definition
+https://www.metoffice.gov.uk/binaries/content/assets/metofficegovuk/pdf/research/library-and-archive/library/publications/factsheets/factsheet_8-shipping-forecast.pdf
